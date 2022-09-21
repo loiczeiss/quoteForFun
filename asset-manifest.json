@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/quoteForF-ckers/static/css/main.a540f034.css",
-    "main.js": "/quoteForF-ckers/static/js/main.9c93b2fd.js",
+    "main.js": "/quoteForF-ckers/static/js/main.f26412f5.js",
     "static/media/CircularStd-Bold.otf": "/quoteForF-ckers/static/media/CircularStd-Bold.7883273d67680108371d.otf",
     "static/media/CircularStd-Book.otf": "/quoteForF-ckers/static/media/CircularStd-Book.ac1c60dd909d50054cc5.otf",
     "static/media/BreeSerif-Regular.ttf": "/quoteForF-ckers/static/media/BreeSerif-Regular.751eb941c0e1335ad247.ttf",
     "index.html": "/quoteForF-ckers/index.html",
     "main.a540f034.css.map": "/quoteForF-ckers/static/css/main.a540f034.css.map",
-    "main.9c93b2fd.js.map": "/quoteForF-ckers/static/js/main.9c93b2fd.js.map"
+    "main.f26412f5.js.map": "/quoteForF-ckers/static/js/main.f26412f5.js.map"
   },
   "entrypoints": [
     "static/css/main.a540f034.css",
-    "static/js/main.9c93b2fd.js"
+    "static/js/main.f26412f5.js"
   ]
 }
