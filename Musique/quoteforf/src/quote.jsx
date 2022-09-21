@@ -53,8 +53,9 @@ console.log(response.data.text);
           </div>
        <div className="grid xl:grid-cols-3 sm:grid-cols-1">
        <div className="grid   xl:h-[250px] h-[100px] bg-green-300 hover:bg-green-600 font-serif  justify-center	 content-center	">
+       <button className="text-2xl" onClick={next}>Give it another chance you dotard</button>  
         </div>
-       <button className="text-2xl" onClick={next}></button>  Give it another chance you dotard
+       
         <div className="grid   xl:h-[250px] h-[100px] bg-green-300 hover:bg-green-600 font-serif  justify-center	 content-center	">
           <button className="text-2xl" onClick={next}>Give my all your knownledge you jolly boy</button>
         </div>   <div className="grid   xl:h-[250px] h-[100px] bg-green-300 hover:bg-green-600 font-serif  justify-center	 content-center	">
