@@ -44,7 +44,7 @@ console.log(response.data.text);
                 Get wise or get fucked
                 </a>
           </header>
-          <div className="xl:w-[1446px] xl:h-[669px] xl:pt-[136px] xl:pl-[40px]  xl:pb-[128px] sm:pb-0 overflow-y-scroll">
+          <div className="xl:w-[1446px] xl:h-[500px] xl:pt-[136px] xl:pl-[40px]  xl:pb-[128px] sm:pb-0 overflow-y-scroll">
                    <p className="text-7xl  font-serif">{Quotiti[Num] &&  Quotiti[Num].text}</p>
    
           <div>
