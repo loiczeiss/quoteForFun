@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/quoteForF-ckers/static/css/main.a540f034.css",
-    "main.js": "/quoteForF-ckers/static/js/main.39483c17.js",
-    "static/media/CircularStd-Bold.otf": "/quoteForF-ckers/static/media/CircularStd-Bold.7883273d67680108371d.otf",
-    "static/media/CircularStd-Book.otf": "/quoteForF-ckers/static/media/CircularStd-Book.ac1c60dd909d50054cc5.otf",
-    "static/media/BreeSerif-Regular.ttf": "/quoteForF-ckers/static/media/BreeSerif-Regular.751eb941c0e1335ad247.ttf",
-    "index.html": "/quoteForF-ckers/index.html",
-    "main.a540f034.css.map": "/quoteForF-ckers/static/css/main.a540f034.css.map",
-    "main.39483c17.js.map": "/quoteForF-ckers/static/js/main.39483c17.js.map"
+    "main.css": "/quoteForFun/static/css/main.7393830c.css",
+    "main.js": "/quoteForFun/static/js/main.cea10403.js",
+    "static/media/CircularStd-Bold.otf": "/quoteForFun/static/media/CircularStd-Bold.7883273d67680108371d.otf",
+    "static/media/CircularStd-Book.otf": "/quoteForFun/static/media/CircularStd-Book.ac1c60dd909d50054cc5.otf",
+    "static/media/BreeSerif-Regular.ttf": "/quoteForFun/static/media/BreeSerif-Regular.751eb941c0e1335ad247.ttf",
+    "index.html": "/quoteForFun/index.html",
+    "main.7393830c.css.map": "/quoteForFun/static/css/main.7393830c.css.map",
+    "main.cea10403.js.map": "/quoteForFun/static/js/main.cea10403.js.map"
   },
   "entrypoints": [
-    "static/css/main.a540f034.css",
-    "static/js/main.39483c17.js"
+    "static/css/main.7393830c.css",
+    "static/js/main.cea10403.js"
   ]
 }
